@@ -1,0 +1,23 @@
+.cartListContainer {
+  padding: 10px;
+  height: 100%;
+}
+
+.cartListCard {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.cartListTitle {
+  border-bottom: solid 1px rgb(209, 209, 209);
+}
+
+.cartList {
+  padding-top: 10px;
+}
+
+.purchaseContainer {
+  display: flex;
+  align-items: flex-end;
+}

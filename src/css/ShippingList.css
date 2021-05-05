@@ -1,0 +1,31 @@
+.shippingListContainer {
+  padding: 10px;
+}
+
+.shippingListCard {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.shippingListTitle {
+  border-bottom: solid 1px rgb(209, 209, 209);
+}
+
+.shippingList {
+  padding-top: 10px;
+}
+
+.shippingRow {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-radius: 5px;
+}
+
+.btnContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

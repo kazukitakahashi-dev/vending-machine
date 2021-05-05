@@ -1,0 +1,29 @@
+.itemListContainer {
+  padding: 10px;
+}
+
+.itemListCard {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.itemListTitle {
+  border-bottom: solid 1px rgb(209, 209, 209);
+}
+
+.itemList {
+  padding-top: 10px;
+}
+
+.itemRow {
+  display: flex;
+  align-items: center;
+}
+
+.btnContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+}
