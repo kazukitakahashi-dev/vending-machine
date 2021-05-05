@@ -4,7 +4,7 @@
 https://pastime-room.com/sandbox/vending_machine/
 
 
-React + TypeScript + Recoil　の初めて扱ったので、簡単な成果物として作成しました。
+React + TypeScript + Recoil　を初めて扱ったので、簡単な成果物として作成しました。
 次回は、より実用的な物を作成できればと思います。
 
 
